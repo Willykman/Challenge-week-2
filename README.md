@@ -24,4 +24,7 @@ to
         save_csv(Path(csvpath), qualifying_loans)
         
         
+  I received code help with code from a tutor from the support staff. 
+        
+        
 
